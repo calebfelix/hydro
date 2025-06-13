@@ -3,6 +3,9 @@
 
 CMakeFiles/hydro.dir/src/main.cpp.o
  /home/caleb/Dev/calebfelix/OS/hydrogen/src/main.cpp
+ /home/caleb/Dev/calebfelix/OS/hydrogen/src/tokenization.hpp
+ /home/caleb/Dev/calebfelix/OS/hydrogen/src/generation.hpp
+ /home/caleb/Dev/calebfelix/OS/hydrogen/src/parser.hpp
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
  /usr/include/asm-generic/errno-base.h
